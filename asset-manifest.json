@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TechMap/static/css/main.f855e6bc.css",
+    "main.js": "/TechMap/static/js/main.168b44d2.js",
+    "static/js/453.9592d033.chunk.js": "/TechMap/static/js/453.9592d033.chunk.js",
+    "static/media/logo.svg": "/TechMap/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TechMap/index.html",
+    "main.f855e6bc.css.map": "/TechMap/static/css/main.f855e6bc.css.map",
+    "main.168b44d2.js.map": "/TechMap/static/js/main.168b44d2.js.map",
+    "453.9592d033.chunk.js.map": "/TechMap/static/js/453.9592d033.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.168b44d2.js"
+  ]
+}
